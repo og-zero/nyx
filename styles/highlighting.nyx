@@ -1,0 +1,5 @@
+export ZSH_HIGHLIGHT_DIR="$HOMEBREW_REPOSITORY/share/zsh-syntax-highlighting"
+export ZSH_HIGHLIGHT_HIGHLIGHTERS_DIR="$ZSH_HIGHLIGHT_DIR/highlighters"
+
+source "$ZSH_HIGHLIGHT_DIR/zsh-syntax-highlighting.zsh"
+

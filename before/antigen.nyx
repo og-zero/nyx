@@ -1,0 +1,11 @@
+source "$HOMEBREW_REPOSITORY/share/antigen/antigen.zsh"
+source "$HOMEBREW_REPOSITORY/share/zsh-history-substring-search/zsh-history-substring-search.zsh"
+
+antigen bundle git
+antigen bundle zsh-users/zsh-completions
+antigen bundle zsh-users/zsh-autosuggestions
+
+antigen theme spaceship-prompt/spaceship-prompt
+
+antigen apply
+

@@ -1,0 +1,3 @@
+source "$NYX_DIR/styles/highlighting.nyx"
+source "$NYX_DIR/styles/prompt.nyx"
+

@@ -1,0 +1,15 @@
+source "$NYX_DIR/before/before.nyx"
+source "$NYX_DIR/core.nyx"
+
+###############################
+#
+# *Your code here*
+#
+#  for example:
+# alias home = 'cd $HOME'
+# export MY_VAR = 'OG'
+# source $HOME/some.sh
+#
+###############################
+source "$NYX_DIR/aliases.nyx"
+source "$NYX_DIR/after/after.nyx"

@@ -1,0 +1,4 @@
+source "$NYX_DIR/variables/main.nyx"
+source "$NYX_DIR/styles/main.nyx"
+source "$NYX_DIR/autocompletion/main.nyx"
+source "$NYX_DIR/keybindings/main.nyx"

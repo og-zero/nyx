@@ -1,0 +1,3 @@
+alias nd="cd $NYX_DIR"
+alias rr='source ~/.zshrc && clear && printf "$NYX_RELOAD_MSG"'
+
